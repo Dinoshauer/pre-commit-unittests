@@ -7,6 +7,6 @@ python:
 install:
   - "pip install -r requirements-dev.txt"
   - "pip install coveralls"
-script: "py.test --cov pre_commit_hook tests/"
+script: "py.test --cov pre_commit_unittests tests/"
 after_success:
   - coveralls

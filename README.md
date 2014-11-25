@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/Dinoshauer/pre-commit-unittests.svg)](https://travis-ci.org/Dinoshauer/pre-commit-unittests)
+[![Coverage Status](https://coveralls.io/repos/Dinoshauer/pre-commit-unittests/badge.png)](https://coveralls.io/r/Dinoshauer/pre-commit-unittests)
+
 Pre-commit unittest runner
 ==========================
 
