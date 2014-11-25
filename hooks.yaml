@@ -1,0 +1,6 @@
+- id: unittest-runner
+  name: unittest runner
+  description: Run unittests (or any other command)
+  entry: unittest-runner
+  language: python
+  files: \.*$
